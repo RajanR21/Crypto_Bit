@@ -49,7 +49,7 @@ const Home = () => {
         color={"whiteAlpha.900"}
         mt={"10"}
       >
-        GET UPDATED WITH CRYPTO MARKET
+        STAY UPDATED WITH CRYPTO MARKET !
       </Text>
           <Text
             justifyContent={"flex-start"}
@@ -60,12 +60,13 @@ const Home = () => {
             //  p={['4', '16']}
             textAlign={'center'}
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad nemo
-            tempora deleniti quod, est eos veniam autem asperiores rem, nam
-            laudantium ut, similique ducimus amet sequi et voluptas iusto rerum
-            at aliquid numquam corporis ipsa reprehenderit? Porro iusto magnam,
-            sit vero deleniti, non nemo rem accusamus neque, quibusdam ab.
-            Libero,
+            🚀 Introducing Crypto Bits - Your Gateway to the Digital Revolution!
+
+Welcome to Crypto Bits, where the future of finance meets the power of innovation. Step into a world where digital currencies redefine the way we exchange value, invest, and transact. Dive into the exciting realm of cryptocurrency trading begins.
+<br></br>
+<br></br>
+🔒 Your Security, Our Priority:
+Your financial security is our utmost concern. Crypto Bits employs state-of-the-art security measures to ensure your assets are protected at all times. Trade with confidence, knowing that your crypto holdings are in safe hands.
           </Text>
         </VStack>
 

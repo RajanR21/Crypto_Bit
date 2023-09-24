@@ -31,10 +31,10 @@ const Footer = () => {
            py='2'
            >
     <Heading textAlign={'center'}>
-        CRYPTO BIT
+        CRYPTO BITS
     </Heading>
    <Text>
-   All rights received
+   Made with ❤️ By : Rajan & Dwij
    </Text>
            </VStack>
     
