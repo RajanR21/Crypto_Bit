@@ -23,7 +23,6 @@ Here are few sneak peeks into our project 🔥:
 5. Live Payment
 ![image](https://github.com/RajanR21/Crypto_Bit/assets/132806674/760d8283-f978-4943-b37e-11fd8bc7389b)
 
-6. Payment Successful Redirection Page
 ![image](https://github.com/RajanR21/Crypto_Bit/assets/132806674/08e80284-3685-4b77-a3a0-84728cb034d8)
 
 7. Authentication using Visual Cryptography
