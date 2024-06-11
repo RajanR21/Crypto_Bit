@@ -1,4 +1,4 @@
-Features of Crypto-Bits: 
+Features of Crypto-Bits 🚀: 
 
 1. Provide Interface for exchanging crypto-currency.
 2. Intutive User Dashboard & live price tracking.
